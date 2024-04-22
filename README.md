@@ -8,7 +8,7 @@ Originally, I started my career in Windows automation and software deployment, b
 
 I’m currently working on the backend of the mobile app for the Eurofurence, a furry convention.
 
-When it comes to hobbies - apart from coding and furry stuff of course - I like gaming, movies/TV shows, reading and cooking.
+When it comes to hobbies - apart from furry stuff of course - I like gaming, movies/TV shows, reading and cooking.
 
 # Socials
 
