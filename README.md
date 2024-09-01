@@ -14,7 +14,7 @@ When it comes to hobbies - apart from furry stuff of course - I like gaming, mov
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48">](https://t.me/MetaProot)
 [<img src="https://skillicons.dev/icons?i=discord">](https://discord.com/users/meta97)
-[<img src="https://skillicons.dev/icons?i=twitter">](https://twitter.com/Metawolve)
+[<img src="https://skillicons.dev/icons?i=twitter">](https://twitter.com/Metaproot)
 
 Feel free to hit me up, I'm always open to chat!
 
