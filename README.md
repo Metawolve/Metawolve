@@ -1,22 +1,12 @@
 # About me
 
-Hey! I'm Meta. Surprisingly enough, I like to code stuff! And as you can see, I'm also a furry.
-
 My main language is C# with .NET Core, although I do a lot of typescript/javascript too.
 As you can see in my skill list, I tinkered around with some stuff in game development and music production aswell.
-Originally, I started my career in Windows automation and software deployment, but I realised soon that programming is way cooler, so that's what I did.
+Originally, I started my career in Windows automation and software deployment, but I realised soon that programming is more my thing.
 
 I’m currently working on the backend of the mobile app for the Eurofurence, a furry convention.
 
 When it comes to hobbies, I like gaming, movies/TV shows, reading and cooking.
-
-# Socials
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48">](https://t.me/MetaProot)
-[<img src="https://skillicons.dev/icons?i=discord">](https://discord.com/users/meta97)
-[<img src="https://skillicons.dev/icons?i=twitter">](https://twitter.com/Metaproot)
-
-Feel free to hit me up, I'm always open to chat!
 
 # Skills (Comfortable To Unfomcortable)
 
